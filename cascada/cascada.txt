@@ -1,0 +1,4 @@
+N° de memorias = N° grupos -1
+
+memoria : valvula 5x2
+
